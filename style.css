@@ -10,10 +10,11 @@ body {
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: black;
-    color: white;
-    background-size: contain;
-    
+    background-color: rgba(0, 0, 0, 0.514);
+    color: rgba(194, 163, 104, 0.938);
+    background-size: auto;
+    border-radius: 4px;
+    border: 1px solid rgba(194, 163, 104, 0.938);  
 }
 .stage {
     text-align: center;
@@ -25,4 +26,15 @@ h1 {
     border: 2px solid rgba(0, 0, 0, 0.719);
     display: inline-block;
     
+}
+footer {
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+        text-align: center;
+        color: rgba(194, 163, 104, 0.938);
+        background-color: rgba(0, 0, 0, 0.507);
+        border-radius: 4px;
+        border: 1px solid rgba(194, 163, 104, 0.938); 
+        
 }
