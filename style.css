@@ -1,0 +1,28 @@
+@charset "UFT-8";
+body {
+    
+    background-image: url(https://images.pexels.com/photos/220053/pexels-photo-220053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    overflow: hidden;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    background-size: contain;
+    
+}
+.stage {
+    text-align: center;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(194, 163, 104, 0.938);
+    border: 2px solid rgba(0, 0, 0, 0.719);
+    display: inline-block;
+    
+}
