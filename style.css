@@ -38,3 +38,33 @@ footer {
         border: 1px solid rgba(194, 163, 104, 0.938); 
         
 }
+
+.o {
+    position: relative;
+}
+
+.o:after{
+    position: absolute;
+    content: "\1F5D9";
+    font-size: 60px;
+    line-height: 100px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.x {
+    position: relative;
+}
+
+.x:after{
+    position: absolute;
+    content: "\2B55";
+    font-size: 55px;
+    line-height: 100px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
