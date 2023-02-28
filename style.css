@@ -28,6 +28,7 @@ h1 {
     
 }
 footer {
+        
         bottom: 0;
         position: fixed;
         width: 100%;
@@ -35,7 +36,8 @@ footer {
         color: rgba(194, 163, 104, 0.938);
         background-color: rgba(0, 0, 0, 0.507);
         border-radius: 4px;
-        border: 1px solid rgba(194, 163, 104, 0.938); 
+        font-size: 10px;
+        
         
 }
 
