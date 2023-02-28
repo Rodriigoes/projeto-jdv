@@ -46,7 +46,7 @@ footer {
 .o:after{
     position: absolute;
     content: "\274C";
-    font-size: 60px;
+    font-size: 55px;
     line-height: 100px;
     top: 0;
     bottom: 0;
